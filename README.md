@@ -1,5 +1,5 @@
 
-![](./site.png)
+![]([./site.png](https://github.com/busracelikcioglu/react-travel-website/blob/master/site.png?raw=true))
 
 # Getting Started with Create React App
 
