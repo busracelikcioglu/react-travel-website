@@ -1,5 +1,4 @@
 ![Travel](https://github.com/busracelikcioglu/react-travel-website/blob/master/site.png?raw=true)
-!!( https://github.com/busracelikcioglu/react-travel-website/blob/master/site.png?raw=true )
 
 # React Uygulaması Oluşturmaya Başlarken
 
